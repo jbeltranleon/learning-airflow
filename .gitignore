@@ -1,0 +1,14 @@
+.virtualenvs/
+.idea/
+__pycache__/
+logs/
+airflow.cfg
+airflow.db
+airflow-webserver.pid
+airflow-webserver.err
+airflow-webserver.log
+airflow-webserver.out
+airflow-webserver-monitor.pid
+unittests.cfg
+run_on_local.sh
+webserver_config.py
